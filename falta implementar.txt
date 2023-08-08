@@ -1,0 +1,1 @@
+Falta implementar uma forma de que ataque primeiro o persoagem mais rapido e uma forma de separar os ataque de forma fisica ou especial.
